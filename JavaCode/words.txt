@@ -1,0 +1,131 @@
+Hand - We use this part of our body to write, and hold objects.
+Ball - A spherical object used in many sports, including soccer, basketball, and baseball.
+Head - The top part of the human body, which includes the brain and the face.
+Blue - A color often associated with the sky and the ocean.
+Tree - A tall plant with a single stem or trunk and many branches, which produces oxygen and provides shade.
+Bird - A feathered animal with wings that lays eggs.
+Cook - Someone who prepares food for others to eat.
+Fall - The season between summer and winter.
+Girl - A female child or young woman.
+Idea - A thought or concept.
+Join - To connect or bring together.
+Moon - The natural satellite of the Earth.
+Note - A brief written message or a musical sound.
+Open - Not closed or shut.
+Pink - A pale red color.
+Quiz - A test of knowledge or understanding.
+Ring - A circular band worn on the finger.
+Sand - Tiny particles of rock or mineral.
+Time - The duration between two events.
+Unit - A single thing or entity.
+Very - To a great extent or degree.
+West - The direction opposite to East, where the sun sets.
+East - The direction opposite to West, where the sun rises.
+Able - Having the ability or capability to do something.
+Blue - A color often associated with the sky and the ocean.
+Cool - Pleasantly cold or refreshing.
+Door - A movable barrier used to close off an entrance or exit.
+Even - The opposite of odd.
+Fish - A cold-blooded animal that lives in water and breathes through gills.
+Gold - A valuable, yellowish metal.
+Home - The place where one lives.
+Iron - A strong, hard, magnetic metallic element.
+Jump - To propel oneself into the air with force.
+Kind - Showing empathy or compassion.
+Late - Occurring after the expected or usual time.
+Mind - The faculty of consciousness and thought.
+Nice - Pleasant or agreeable.
+Once - One time or on one occasion.
+Pink - A pale red color.
+Rose - A fragrant flower with thorny stems.
+That - Used to identify a specific person or thing.
+Under - Beneath or below.
+Very - To a great extent or degree.
+What - Used to ask for information or an explanation.
+Xray - A type of electromagnetic radiation.
+Year - The period of time it takes for the Earth to orbit the sun.
+Zero - The numerical value of nothing.
+Able - Having the ability or capability to do something.
+Bath - A container filled with water for washing the body.
+Care - The provision of what is necessary for the welfare and protection of someone or something.
+Door - A movable barrier used to close off an entrance or exit.
+Small - Not large in size or amount.
+Beach - A sandy spot by the sea.
+Dream - A series of thoughts or images that occur during sleep.
+Email - Electronic mail that you send or receive online.
+Flute - A musical instrument that you blow into.
+House - A building where people live.
+Kneel - To bend down on one or both knees.
+Lemon - A sour, yellow fruit often used in cooking.
+Mouse - A small mammal with a long tail and pointed nose.
+Nerve - A bundle of fibers that transmit messages in the body.
+Onion - A pungent vegetable used in many dishes.
+Pizza - A savory dish made with dough, sauce, and toppings.
+Queen - A female monarch or ruler.
+River - A large, flowing body of water.
+Skate - To glide on ice or a smooth surface.
+Teeth - Hard structures in the mouth used for biting and chewing.
+Voice - The sound produced by the vocal cords.
+Wagon - A vehicle with four wheels used to transport goods.
+Xerox - A brand name for a type of copying machine.
+Yacht - A luxurious boat used for pleasure.
+Zebra - An African mammal with black and white stripes.
+Angel - A spiritual being often depicted with wings.
+Blink - To open and close your eyes quickly.
+Candy - A sweet treat made of sugar.
+Drama - A genre of literature or performance that tells a story through conflict and emotions.
+Error - A mistake or incorrect action.
+Grape - A small, juicy fruit often used to make wine.
+Happy - Feeling or expressing joy.
+Image - A picture or representation of something.
+Jolly - Feeling happy and cheerful.
+Karma - The belief that your actions determine your future fate.
+Light - Electromagnetic radiation that is visible to the human eye.
+Music - Artistic expression through sound and rhythm.
+Opera - A form of art that combines music, theater, and dance.
+Petal - The colorful part of a flower.
+Quiet - Absence of noise or sound.
+Tiger - A large, carnivorous feline with distinctive stripes.
+Unity - The state of being united or joined as a whole.
+Venus - The second planet from the sun and named after the Roman goddess of love.
+Whirl - To spin or rotate rapidly.
+Zesty - Having a strong, tangy flavor or lively quality.
+Adapt - To adjust to new conditions or circumstances.
+Brave - Showing courage or fearless behavior.
+Cabin - A small, simple house made of wood.
+Daisy - A common flower with white petals and a yellow center.
+Eagle - A large bird of prey with a hooked beak and sharp talons.
+Fable - A short story with a moral lesson.
+Globe - A spherical representation of the Earth or a celestial body.
+Hazel - A tree or shrub with clusters of small flowers and edible nuts.
+Jelly - A sweet, gelatinous food often spread on toast or used as a filling.
+Lucky - Fortunate or favored by chance or luck.
+Mango - A sweet, juicy tropical fruit with a yellow-orange skin.
+Maple - A tree known for its sweet syrup.
+Nacho - A Mexican snack consisting of tortilla chips and melted cheese.
+Piano - A musical instrument with keys that produce sounds when pressed.
+Salsa - A spicy sauce made with tomatoes, chili peppers, and other ingredients.
+Tulip - A spring-blooming flower with colorful petals.
+Vegan - A person who does not eat or use animal products.
+Waste - Unwanted or unusable material or substances.
+Spirit - The non-physical part of a person that is believed to be the source of their emotions, thoughts, and personality.
+Potato - A starchy root vegetable that is a staple food in many cultures.
+Window - An opening in a wall or roof that allows light and air to enter a building.
+Castle - A large fortified building, often with towers and a moat, that was used for protection in medieval times.
+Winter - The coldest season of the year, characterized by snow, ice, and low temperatures.
+Marvel - It's a verb that means to be filled with wonder or amazement.
+Paddle - It's a noun that refers to a tool used for rowing boats.
+Jungle - It's a dense forest in tropical regions, often inhabited by wild animals.
+Hurdle - It's an obstacle that one must jump over, often in a race.
+Canyon - It's a deep and narrow valley with steep sides, often formed by water erosion.
+Wisely - It's an adverb that means to act with good judgment or intelligence.
+Grateful - It's an adjective that describes feeling thankful or appreciative.
+Savage - It's an adjective that describes something fierce, violent, or untamed.
+Jockey - It's a noun that refers to a person who rides horses in races.
+Marvel - It's a noun that refers to something that is remarkable or extraordinary.
+Cradle - It's a noun that refers to a baby's bed or a place of origin or beginning.
+Talent - It's a noun that refers to a natural ability or aptitude for something.
+Victor - It's a noun that refers to someone who has won in a contest or competition.
+Legend - It's a noun that refers to a popular story handed down from earlier times, often based on historical events or people.
+Camera - It's a device used to capture images or record video.
+Dragon - It's a mythical creature often depicted as a large, scaly, fire-breathing reptile.
