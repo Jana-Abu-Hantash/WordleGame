@@ -17,3 +17,5 @@ Wordle is a word-guessing game where players deduce a hidden word using feedback
 
 ## Usage
 Run `MainPage.java` to start the game. Navigate through the game using the graphical interface, choose difficulty levels, use hints, and enjoy the gameplay. Ensure the 'resources' folder is in the correct path for the application to access images and music.
+
+© `<Jana-Abu-Hantash>`, `<abuhantash.jana@gmail.com>`, and `<2023>`.
